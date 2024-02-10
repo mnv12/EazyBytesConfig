@@ -1,0 +1,14 @@
+
+
+
+build:
+  version: "1.0"
+# Configuration Properties approach
+accounts:
+  message: "Welcome to Bank accounts related prod  APIs"
+  contactDetails:
+    name: "Nmitha-ojha"
+    email: "nmitha@gmail.com"
+  onCallSupport:
+    -(666)485-1234
+    -(666)543-1345
