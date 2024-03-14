@@ -8,7 +8,7 @@ accounts:
   message: "Welcome to Bank accounts related prod  APIs"
   contactDetails:
     name: "Nmitha-ojha"
-    email: "040b252de701f18d0eae9b471b61c86d1c76a3cd2ee87f66b1073eee2f76e897427166b6978109aa1d38aa6d15ab1313"
+    email: "{cipher}040b252de701f18d0eae9b471b61c86d1c76a3cd2ee87f66b1073eee2f76e897427166b6978109aa1d38aa6d15ab1313"
   onCallSupport:
     -(666)485-1234
     -(666)543-1345
