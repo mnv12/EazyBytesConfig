@@ -1,0 +1,20 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "pro"
+
+
+
+
+build:
+  version: "2.1"
+# Configuration Properties approach
+cards:
+  message: "Welcome to Bank cards related PROD  APIs"
+  contactDetails:
+    name: "Achank-ojha"
+    email: "achanak@gmail.com"
+  onCallSupport:
+    -(444)255-1999
+    -(444)321-2777
