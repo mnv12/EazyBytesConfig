@@ -10,7 +10,7 @@ spring:
 build:
   version: "3.1"
 # Configuration Properties approach
-cards:
+loans:
   message: "Welcome to Bank Loans related Pd APIs"
   contactDetails:
     name: "Buchank-ojha"
