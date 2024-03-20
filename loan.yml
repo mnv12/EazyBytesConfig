@@ -1,0 +1,20 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "loan"
+
+
+
+
+build:
+  version: "3.0"
+# Configuration Properties approach
+cards:
+  message: "Welcome to Bank Loans related QA  APIs"
+  contactDetails:
+    name: "Tuchank-ojha"
+    email: "tuchank@gmail.com"
+  onCallSupport:
+    -(777)255-3000
+    -(777)321-4345
