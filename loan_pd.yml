@@ -1,0 +1,20 @@
+
+spring:
+  config:
+    activate:
+      on-profile: "pd"
+
+
+
+
+build:
+  version: "3.1"
+# Configuration Properties approach
+cards:
+  message: "Welcome to Bank Loans related Pd APIs"
+  contactDetails:
+    name: "Buchank-ojha"
+    email: "Buchank@gmail.com"
+  onCallSupport:
+    -(666)255-4000
+    -(666)321-4345
