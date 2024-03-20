@@ -8,7 +8,7 @@ build:
   version: "2.0"
 # Configuration Properties approach
 accounts:
-  message: "Welcome to Bank accounts related QA  APIs"
+  message: "Welcome to Bank accounts related QA Updated  APIs"
   contactDetails:
     name: "Smitha-ojha"
     email: "smitha@gmail.com"
