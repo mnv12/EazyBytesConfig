@@ -11,7 +11,7 @@ build:
   version: "2.1"
 # Configuration Properties approach
 cards:
-  message: "Welcome to Bank cards related webhook  APIs"
+  message: "Welcome to Bank cards related webhook prod  APIs"
   contactDetails:
     name: "Achank-ojha"
     email: "achanak@gmail.com"
